@@ -1,7 +1,7 @@
 {
-  "name": "just-the-docs",
+  "name": "DataSage",
   "version": "0.3.3",
-  "description": "A modern Jekyll theme for documentation",
+  "description": "DataSage is a sensitive data classification and auditing system",
   "repository": "just-the-docs/just-the-docs",
   "license": "MIT",
   "bugs": "https://github.com/just-the-docs/just-the-docs/issues",
