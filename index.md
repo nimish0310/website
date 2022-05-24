@@ -10,6 +10,8 @@ permalink: /
 {: .fs-9 }
 
 DataSage is a sensitive data classification and auditing system for your cloud native databases. 
+
+
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/datasage-io){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -29,7 +31,6 @@ While traditional Data Loss Prevention (DLP) solutions have helped identify data
 
 
 
-
 ## DataSage Design Goals
 
 The following are DataSage Design goals:
@@ -37,4 +38,7 @@ The following are DataSage Design goals:
 - Identify and classify sensitive data within various data sources automatically and continously
 - Provide policy based visibility and governance
 - Report on well known compliance needs
+
+
+
 
