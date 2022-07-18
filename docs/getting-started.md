@@ -15,7 +15,24 @@ nav_order: 6
 
 ---
 
-## Installing Datasage
+- How to Deploy DataSage
+- How add a Datasource (MySQL)
+- How to add Class
+- How to add Tags
+- How to apply Policy
+- How to view Logs
+
+
+
+
+
+
+
+
+
+
+
+
 
 {: .d-inline-block }
 
