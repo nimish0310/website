@@ -16,7 +16,7 @@ nav_order: 2
 
 ---
 
-![Stack](/assets/images/stack.png)
+![Stack](/assets/images/Architecture.png)
 
 
 Datasage works by talking to the database audit mechanisms so that data can be collected and audited in the least disruptive manner. Certain policies (such as protection of allow / deny) also initiate database changes in terms of grant statements to allow or deny specific actions against the database.
