@@ -4,7 +4,7 @@ title: Design
 nav_order: 2
 ---
 
-# DataSage design
+# DataSage Design
 {: .no_toc }
 
 
