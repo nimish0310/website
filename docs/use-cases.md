@@ -13,6 +13,19 @@ nav_order: 2
 1. TOC
 {:toc}
 
+## How does it work?
+DataSage does not attempt to intercept your database connections, nor requires you to rewrite connections through custom database drivers. Instead, DataSage uses database specific audit logging features to intercept database audit logs and parse fields, and meta data to:
+
+1. Identify sensitive data as defined by sensitive class meta data
+2. Identify audit log / policy violations based on policies created against sensitive classes and sensitive tags.
+
+## Functionality:
+- Enforce security policies to a particular column in the Database using mapped sensitive tags and class. 
+
+- Policies will be made and applied , accordingly there are certain actions with policy for specific sensitive tags or classes like allow read , allow write, deny read etc.
+
+- Produce alerts and system logs, they generate alerts and system logs based on system metadata.
+
 ## Sensitive data classification and auditing for GDPR and CCPA
 Given a set of predefined meta data for identifying sensitive data such PII for GDPR and PII, DataSage can both identify and track sensitive data across enterprise data sources as it moves across various databases (which are tracked by DataSage of course).
 
@@ -29,7 +42,6 @@ Datasage can be used to track sensitive data access by individual application us
 ## Data lineage 
 Datasage can help build data lineage graphs of all access to sensitive data.
 
-## Data provenance of S3 databases
-Datasage can be used to track data provenance of sensitive data in container environments as it moves through workloads and exits the network. This feature is currently only available for S3 databases.
+
 
  
