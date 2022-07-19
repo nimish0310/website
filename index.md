@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Introduction
 nav_order: 1
 description: "DataSage is a sensitive data classification and auditing system"
 permalink: /
@@ -17,6 +17,20 @@ DataSage is a sensitive data classification and auditing system for your cloud n
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/datasage-io){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
+
+## Introduction to DataSage
+
+[DataSage.io](https://datasage.io/) is a cloud data classification and tracking product that allows enterprises to implement governance, risk, and compliance. It works on MySQL Databases at this moment of time and is database specific.
+
+Enterprise data environments are increasingly complex. Data is spread across multiple different environments with multiple personas accessing the data. It is becoming increasingly difficult, if not impossible to Provide continuous visibility on data access or preventing data breaches.
+
+DataSage is an Open Source tool that solves these problems by enabling the following features:
+
+1. **Data Protection:** The system will identify all the data sources available and provides unprecedented "unified" visibility and policy based access control to all the data sources.
+
+2. **Data Classification:** DataSage provides unprecedented visibility through automated data classification of known types of data (that have been defined with metadata) across all the databases it has been tracking.
+
+3. **Data Audit:** DataSage provides continuous visibility and policy based data governance through a data policy operator.
 
 ## Background
 
