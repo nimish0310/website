@@ -4,7 +4,7 @@ title: Community
 nav_order: 5
 ---
 
-# Join DataSaga Community
+# Join DataSage Community
 {: .no_toc }
 
 ## Table of contents
