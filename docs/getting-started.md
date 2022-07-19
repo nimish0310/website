@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Getting Started
-nav_order: 6
+nav_order: 4
 ---
 
-# Getting started with Datasage
+# Getting Started with DataSage
 {: .no_toc }
 
 ## Table of contents
@@ -15,7 +15,19 @@ nav_order: 6
 
 ---
 
-## Installing Datasage
+## Installing DataSage
+
+## How to Deploy DataSage
+
+## How to add a DataSource (MySQL)
+
+## How to add Class
+
+## How to add Tags
+
+## How to apply Policy
+
+## How to view Logs
 
 {: .d-inline-block }
 
